@@ -22,7 +22,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
   <script src="js/app.js"></script>
   <script src="./js/controllers/appController.js"></script>
-  <script src="./js/directives/parking.js"></script>
+  <script src="./js/directives/parkingOccupancy.js"></script>
   <script src="./js/directives/progressCircle.js"></script>
   <script src="./js/directives/parkingBar.js"></script>
   <script src="./js/directives/progressbar.js"></script>
@@ -32,7 +32,7 @@
 
   <div class="col-md-8 col-md-offset-2 col-xs-12">
     <!--<parking-progress progress="$ctrl.progress"></parking-progress>-->
-    <parking occupancy="$ctrl.progress" capacity="$ctrl.capacity" type="$ctrl.type"></parking>
+    <parking-occupancy occupancy="$ctrl.progress" capacity="$ctrl.capacity" type="$ctrl.type"></parking-occupancy>
     <parking-bar occupancy="$ctrl.progress" capacity="$ctrl.capacity" type="$ctrl.type" class="col-md-8 col-xs-12"></parking-bar>
   </div>
 

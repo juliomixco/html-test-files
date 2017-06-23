@@ -1,8 +1,8 @@
-angular.module('app').directive("parking", parking);
-function parking() {
+angular.module('app').directive("parkingOccupancy", parkingOccupancy);
+function parkingOccupancy() {
   return {
     restrict: 'E',
-    templateUrl: 'js/templates/parking.html',
+    templateUrl: 'js/templates/parking-occupancy.tpl.html',
     scope: {
       capacity: '=',
       occupancy: '=',
