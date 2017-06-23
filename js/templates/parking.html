@@ -1,0 +1,20 @@
+<div class="parking-availability">
+  <progress-circle progress="progress" class="col-xs-6"></progress-circle>
+  <div class="availabilty-text" class="col-xs-6">
+    <div class="parking-type">
+      {{type | uppercase}}
+    </div>
+    <div ng-if="progress==1" class="full">
+      FULL
+    </div>
+    <div ng-if="progress<1">
+      <div class="quantity">
+        {{capacity - occupancy}}
+      </div>
+      <div class="sub-text">
+        Spots available
+      </div>
+    </div>
+
+  </div>
+</div>

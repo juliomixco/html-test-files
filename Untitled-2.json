@@ -1,0 +1,148 @@
+{
+  "games": [
+    {
+      "name": "dota",
+      "generals": [
+        {
+          "nombre": "Battle Level Bundle",
+          "info": "Itâ€™s time to boost your Battle Pass and grow your treasure stash with theBattle Level Bundle, available this weekend only. From now until the morning of Monday, June 26, Battle Pass customers can purchase this discounted bundle containing 80 Battle Levels, 4x Immortal Treasure I, and 4x Immortal Treasure II for only $19.99.",
+          "urlimagen": "http://cdn.dota2.com/apps/dota2/images/blogfiles/blim_blvl_bndl.jpg"
+        },
+        {
+          "nombre": "direct invitations to The International",
+          "info": "This year, all eighteen teams that make the journey to The International will compete in the Group Stage, where the tournament field will be divided into two Round Robin groups of nine teams. Upon completion of the Group Stage, the bottom team from each group will be eliminated, and the remaining sixteen will move on to the Double Elimination Main Event at KeyArena.",
+          "urlimagen": "http://cdn.dota2.com/apps/dota2/images/blogfiles/blgimg_tis_inviteqls.jpg"
+        },
+        {
+          "nombre": "Immortal Treasure II",
+          "info": "In addition to these items, this treasure has a very rare chance to drop another chest containing a Golden version of one of the Chaos Knight, Pudge, or Lina items. As with other treasures, the Golden chest will not contain duplicate items until each Golden variant has already been acquired,and the first potential Golden drop will always be for Chaos Knight, followed by Pudge and then Lina.",
+          "urlimagen": "http://cdn.dota2.com/apps/dota2/images/blogfiles/blg_img_tiimmsii.jpg"
+        }
+      ],
+      "imagenes": [
+        "https://www.pcgamesn.com/sites/default/files/rsz_dota-2-featured.jpg",
+        "https://wallpapersdota2.com/wp-content/uploads/2015/04/wallpapersdota2.com-873-550x336.jpg",
+        "http://img06.deviantart.net/24d2/i/2011/021/1/e/dota_allstars_5v5_by_kunkka-d1nklk9.jpg",
+        "http://img01.deviantart.net/24d2/i/2011/021/1/e/dota_allstars_5v5_by_kunkka-d1nklk9.jpg",
+        "http://img02.deviantart.net/24d2/i/2011/021/1/e/dota_allstars_5v5_by_kunkka-d1nklk9.jpg",
+        "http://img03.deviantart.net/24d2/i/2011/021/1/e/dota_allstars_5v5_by_kunkka-d1nklk9.jpg",
+        "https://images8.alphacoders.com/462/462893.jpg",
+        "http://img05.deviantart.net/24d2/i/2011/021/1/e/dota_allstars_5v5_by_kunkka-d1nklk9.jpg",
+        "http://img07.deviantart.net/24d2/i/2011/021/1/e/dota_allstars_5v5_by_kunkka-d1nklk9.jpg"
+      ],
+      "players": [
+        {
+          "nombre": "player1dota",
+          "subtitulo": "subtitulo1",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        },
+        {
+          "nombre": "player2dota",
+          "subtitulo": "subtitulo2",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        },
+        {
+          "nombre": "player3dota",
+          "subtitulo": "subtitulo3",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        }
+      ]
+    },
+    {
+      "name": "lol",
+      "generals": [
+        {
+          "nombre": "Lol juego numero 1",
+          "info": "Itâ€™s time to boost your Battle Pass and grow your treasure stash with theBattle Level Bundle, available this weekend only. From now until the morning of Monday, June 26, Battle Pass customers can purchase this discounted bundle containing 80 Battle Levels, 4x Immortal Treasure I, and 4x Immortal Treasure II for only $19.99.",
+          "urlimagen": "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_01.jpg"
+        },
+        {
+          "nombre": "Lol juego numero 2",
+          "info": "This year, all eighteen teams that make the journey to The International will compete in the Group Stage, where the tournament field will be divided into two Round Robin groups of nine teams. Upon completion of the Group Stage, the bottom team from each group will be eliminated, and the remaining sixteen will move on to the Double Elimination Main Event at KeyArena.",
+          "urlimagen": "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg"
+        },
+        {
+          "nombre": "Lol juego numero 3",
+          "info": "In addition to these items, this treasure has a very rare chance to drop another chest containing a Golden version of one of the Chaos Knight, Pudge, or Lina items. As with other treasures, the Golden chest will not contain duplicate items until each Golden variant has already been acquired,and the first potential Golden drop will always be for Chaos Knight, followed by Pudge and then Lina.",
+          "urlimagen": "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_03.jpg"
+        }
+      ],
+      "imagenes": [
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_01.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_03.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_03.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_01.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_01.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_03.jpg"
+      ],
+      "players": [
+        {
+          "nombre": "player1lol",
+          "subtitulo": "subtitulo1",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        },
+        {
+          "nombre": "player2lol",
+          "subtitulo": "subtitulo2",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        },
+        {
+          "nombre": "player3lol",
+          "subtitulo": "subtitulo3",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        }
+      ]
+    },
+    {
+      "name": "csgo",
+      "generals": [
+        {
+          "nombre": "csgo juego numero 1",
+          "info": "Itâ€™s time to boost your Battle Pass and grow your treasure stash with theBattle Level Bundle, available this weekend only. From now until the morning of Monday, June 26, Battle Pass customers can purchase this discounted bundle containing 80 Battle Levels, 4x Immortal Treasure I, and 4x Immortal Treasure II for only $19.99.",
+          "urlimagen": "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_01.jpg"
+        },
+        {
+          "nombre": "csgo juego numero 2",
+          "info": "This year, all eighteen teams that make the journey to The International will compete in the Group Stage, where the tournament field will be divided into two Round Robin groups of nine teams. Upon completion of the Group Stage, the bottom team from each group will be eliminated, and the remaining sixteen will move on to the Double Elimination Main Event at KeyArena.",
+          "urlimagen": "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_093_image_02.jpg"
+        },
+        {
+          "nombre": "csgo juego numero 3",
+          "info": "In addition to these items, this treasure has a very rare chance to drop another chest containing a Golden version of one of the Chaos Knight, Pudge, or Lina items. As with other treasures, the Golden chest will not contain duplicate items until each Golden variant has already been acquired,and the first potential Golden drop will always be for Chaos Knight, followed by Pudge and then Lina.",
+          "urlimagen": "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_093_image_01.jpg"
+        }
+      ],
+      "imagenes": [
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_093_image_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_03.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_093_image_01.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_03.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_093_image_02.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_01.jpg",
+        "http://nexus.leagueoflegends.com/wp-content/uploads/2017/06/LOL_CMS_98_Article_02.jpg"
+      ],
+      "players": [
+        {
+          "nombre": "player1csgo",
+          "subtitulo": "subtitulo1",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        },
+        {
+          "nombre": "player2csgo",
+          "subtitulo": "subtitulo2",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        },
+        {
+          "nombre": "player3csgo",
+          "subtitulo": "subtitulo3",
+          "urlimagen": "http://enadcity.org/enadcity/wp-content/uploads/2017/02/profile-pictures.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+ #container,
+ .progress-circle {
+     display: inline-block;
+     overflow: hidden;
+     clear: both;
+ }
+
+ .progress-bar {
+     display: inline-block;
+     margin: 5px;
+     width: 100%;
+     overflow: hidden;
+     clear: both;
+ }
+
+ parking-progress,
+ parking-bar {
+     display: inline-block;
+     height: auto;
+     overflow: hidden;
+     clear: both;
+ }
+
+ .availabilty-text {
+     display: inline-block;
+     vertical-align: top;
+ }
+
+ .availabilty-text .quantity {
+     color: #2DB9B0;
+     line-height: 1;
+     font-size: 13vw;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+ }
+
+ .availabilty-text .full {
+     font-family: Arial, Helvetica, sans-serif;
+     color: #EF464D;
+     font-size: 10vw;
+     font-weight: bold;
+ }
+
+ .availabilty-text .parking-type {
+     font-size: 3.5vw;
+ }
+
+ .availabilty-text .sub-text {
+     font-size: 3.5vw;
+     color: #6ECDC7;
+ }
+
+ parking-bar {
+     padding: 0 !Important;
+ }
+
+ parking-bar .parking-type {
+     padding: 0;
+     font-size: 3.5vw;
+ }
+
+ parking-bar .parking-available {
+     color: #ABADB2;
+     padding: 0;
+     font-size: 3.2vw;
+ }
+
+ parking-bar .parking-available .quantity {
+     font-size: 3.5vw;
+ }

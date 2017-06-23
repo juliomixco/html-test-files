@@ -1,0 +1,50 @@
+<html>
+
+<head>
+<style>
+.wrapper {
+	position: relative;
+	width: 100%; /* <-- just a default, can be anything. */
+}
+
+   .three-by-two.aspect-ratio { padding-bottom: 66.666% }
+  .four-by-three.aspect-ratio { padding-bottom: 75% }
+.sixteen-by-nine.aspect-ratio { padding-bottom: 56.25% }
+
+.content {
+    position: absolute;
+    top: 0;  bottom: 0;  left: 0;  right: 0;
+	padding: 0 24px; /* Optional padding for content area */
+}
+/* Positioning for the main box */
+.main-box {
+    width: 80%;
+    margin: 5% auto;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
+</style>
+</head>
+
+<body>
+  <div class=" main-box wrapper green">
+    <div class="four-by-three aspect-ratio"></div>
+    <div class="content">
+      <div class="wrapper red">
+        <div class="three-by-two aspect-ratio"></div>
+        <div class="content">
+          TEst ate
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

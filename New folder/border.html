@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title></title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/style.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: black;
+    }
+
+    button {
+      background: none;
+      border: 0;
+      box-sizing: border-box;
+      box-shadow: inset 0 0 0 2px #f45e61;
+      color: #f45e61;
+      font-size: inherit;
+      font-weight: 700;
+      margin: 1em;
+      padding: 1em 2em;
+      text-align: center;
+      text-transform: capitalize;
+      vertical-align: middle;
+    }
+
+    .draw {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .draw::before,
+    .draw::after {
+      content: '';
+      box-sizing: border-box;
+      position: absolute;
+      border: 2px solid transparent;
+      width: 0;
+      height: 0;
+    }
+
+    .draw::before {
+      top: 0;
+      left: 0;
+      border-top-color: #60daaa;
+      border-right-color: #60daaa;
+      animation: border 4s infinite;
+    }
+
+    .draw::after {
+      bottom: 0;
+      right: 0;
+      width: 0;
+      height: 0;
+      border-bottom-color: #60daaa;
+      border-left-color: #60daaa;
+      animation: bottomborder 4s infinite;
+      animation-delay: 2s;
+    }
+
+    @keyframes border {
+      0% {
+        left: 0;
+        opacity: 1;
+        width: 0;
+        height: 0;
+      }
+      12.5% {
+        width: 100%;
+        height: 0;
+        left: 0;
+      }
+      25% {
+        top: 0;
+        left: 98%;
+        width: 0;
+        height: 100%;
+        
+      }
+      50% {
+        opacity: 1;
+        top: 96%;
+        right: 0;
+        width: 0;
+        height: 100%;
+      }
+      60% {
+        opacity: 0;
+        top: 100%;
+        right: 0;
+        height: 0;
+      }
+      75.01%,
+      100% {
+        top: 0;
+        right: 0;
+        opacity: 0;
+        height: 0;
+        width: 0;
+      }
+      /*75% {
+        opacity: 1;
+        top: 100%;
+        left: 96%;
+        height: 0;
+      }
+      75.01% {
+        top: 0;
+        left: 0;
+        opacity: 0;
+        height: 0;
+        width: 0;
+      }*/
+    }
+
+    @keyframes bottomborder {
+      0% {
+        /*inicio*/
+        bottom: 0;
+        right: 0;
+        opacity: 1;
+        width: 0;
+        height: 0;
+      }
+      12.5% {
+        /*mitad llna*/
+        width: 100%;
+        right: 0;
+        height: 0;
+      }
+      25% {
+        bottom: 0;
+        /*crece hacia arriba */
+        right: 98%;
+        width: 0;
+        height: 100%;
+      }
+      50% {
+        opacity: 1;
+        bottom: 96%;
+        left: 0;
+        width: 0;
+        height: 100%;
+      }
+      60% {
+        opacity: 0;
+        bottom: 100%;
+        left: 0;
+        height: 0;
+      }
+      75.01%,
+      100% {
+        bottom: 0;
+        left: 0;
+        opacity: 0;
+        height: 0;
+        width: 0;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>CSS Border Transitions</h1>
+  <button class="draw">draw</button>
+
+</body>
+
+</html>
